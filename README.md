@@ -1,7 +1,7 @@
 
 ---
 
-## README — `ecommerce-api`
+## 📕 README — `ecommerce-api`
 
 ```md
 # E-commerce API
@@ -10,11 +10,11 @@ Backend REST API for an e-commerce platform, built with **Node.js** and **Expres
 
 This project is developed as part of the **Fly College Fullstack Development Course** and evolves incrementally with each class.
 
-## Project Status
+## 🚧 Project Status
 **In development**  
 Endpoints and features are added gradually throughout the course.
 
-## Features (current and planned)
+## ✨ Features (current and planned)
 - User authentication
 - Product management
 - Categories
@@ -22,27 +22,23 @@ Endpoints and features are added gradually throughout the course.
 - Authorization middleware
 - RESTful endpoints
 
-## Tech Stack
+## 🛠 Tech Stack
 - Node.js
 - Express
 - JavaScript
 - REST API
 - Middleware-based architecture
 
-## Educational Context
+## 📚 Educational Context
 The main goals of this project are:
 - Learn backend architecture
 - Practice REST API design
 - Understand authentication and authorization
 - Apply separation of concerns (routes, controllers, middlewares)
 
-## Testing (Planned)
-Testing will be introduced as part of the course, including:
-- Unit tests for controllers and services
-- Integration tests for API endpoints
-
-## Running the project locally
+## ▶️ Running the project locally
 
 ```bash
 npm install
 npm start
+
