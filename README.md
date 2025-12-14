@@ -6,14 +6,14 @@ This project is developed as part of the **Fly College Fullstack Development Cou
 
 ---
 
-## 🚧 Project Status
+## Project Status
 **In development**
 
 Endpoints and features are added gradually throughout the course.
 
 ---
 
-## ✨ Features (current and planned)
+## Features (current and planned)
 - User authentication
 - Product management
 - Categories
@@ -23,7 +23,7 @@ Endpoints and features are added gradually throughout the course.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Node.js
 - Express
 - JavaScript
@@ -32,7 +32,7 @@ Endpoints and features are added gradually throughout the course.
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 The project follows a structured backend architecture, separating concerns into:
 - Routes
 - Controllers
@@ -43,7 +43,7 @@ This structure helps keep the code organized and scalable.
 
 ---
 
-## 🧪 Testing (Planned)
+## Testing (Planned)
 Automated tests will be added in future classes, including:
 - Unit tests for controllers and services
 - Integration tests for API endpoints
