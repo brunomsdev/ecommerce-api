@@ -2,7 +2,7 @@
 
 Backend REST API for an e-commerce platform, built with **Node.js** and **Express**.
 
-This project is developed as part of the **Fly College Fullstack Development Course** and evolves incrementally with each class.
+This project is part of a fullstack development learning process and evolves incrementally.
 
 ---
 
